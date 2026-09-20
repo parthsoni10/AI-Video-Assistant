@@ -1,4 +1,4 @@
-<![CDATA[# 🎬 AI Video / Meeting Assistant
+﻿# 🎬 AI Video / Meeting Assistant
 
 <div align="center">
 
