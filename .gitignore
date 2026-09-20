@@ -1,1 +1,9 @@
 .env
+__pycache__/
+*.pyc
+vector_db/
+downloades/
+*.webm
+*.wav
+venv/
+.venv/
